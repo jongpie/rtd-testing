@@ -21,6 +21,7 @@ Contents
    :hidden:
    :caption: 🚀 Tutorials
 
+   index
    usage
    api
    another-folder/test
