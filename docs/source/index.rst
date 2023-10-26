@@ -18,10 +18,9 @@ Contents
 
 .. toctree::
    :maxdepth: 4
-   :hidden:
    :caption: 🚀 Tutorials
 
    index
    usage
    api
-   another-folder/test
+   another-folder/index
