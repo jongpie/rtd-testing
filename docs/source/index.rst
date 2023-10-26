@@ -17,6 +17,10 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 🚀 Tutorials
 
    usage
    api
+   another-folder/test
